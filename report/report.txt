@@ -1,0 +1,352 @@
+==========================================================================
+Report Date  : 2013/09/21 22:24:09
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 09:41:38
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 2
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 09:56:12
+
+Product Code  : 0x04
+Product Price : 0.50
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.10
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.20
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.10
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 09:57:18
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 10:03:56
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 10:05:03
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 10:51:26
+
+Product Code  : 0x04
+Product Price : 0.50
+Stock Size    : 5
+
+Product Code  : 0x01
+Product Price : 1.10
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.20
+Stock Size    : 7
+
+Product Code  : 0x02
+Product Price : 1.10
+Stock Size    : 8
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 13:12:40
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 13:17:32
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 13:55:23
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 13:59:37
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 14:07:46
+
+Product Code  : 0x04
+Product Price : 0.55
+Stock Size    : 3
+
+Product Code  : 0x01
+Product Price : 1.15
+Stock Size    : 8
+
+Product Code  : 0x03
+Product Price : 1.25
+Stock Size    : 8
+
+Product Code  : 0x02
+Product Price : 1.15
+Stock Size    : 8
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 14:22:17
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 14:26:20
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 15:28:26
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
+==========================================================================
+Report Date  : 2013/09/22 15:28:54
+
+Product Code  : 0x04
+Product Price : 0.45
+Stock Size    : 4
+
+Product Code  : 0x01
+Product Price : 1.05
+Stock Size    : 4
+
+Product Code  : 0x03
+Product Price : 1.15
+Stock Size    : 4
+
+Product Code  : 0x02
+Product Price : 1.05
+Stock Size    : 4
+
+==========================================================================
+
+
